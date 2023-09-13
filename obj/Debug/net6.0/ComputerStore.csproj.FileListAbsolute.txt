@@ -1,0 +1,14 @@
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfo.cs
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\mh\source\repos\ComputerStore\bin\Debug\net6.0\ComputerStore.exe
+C:\Users\mh\source\repos\ComputerStore\bin\Debug\net6.0\ComputerStore.deps.json
+C:\Users\mh\source\repos\ComputerStore\bin\Debug\net6.0\ComputerStore.runtimeconfig.json
+C:\Users\mh\source\repos\ComputerStore\bin\Debug\net6.0\ComputerStore.dll
+C:\Users\mh\source\repos\ComputerStore\bin\Debug\net6.0\ComputerStore.pdb
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.dll
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\refint\ComputerStore.dll
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.pdb
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ComputerStore.genruntimeconfig.cache
+C:\Users\mh\source\repos\ComputerStore\obj\Debug\net6.0\ref\ComputerStore.dll
