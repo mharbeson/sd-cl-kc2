@@ -1,4 +1,6 @@
 ﻿using ComputerStore.Models;
+using System.Text.Json;
+
 
 Console.WriteLine("How many records do you want to add? ");
 var numberOfRecords = int.Parse(Console.ReadLine());
@@ -47,5 +49,5 @@ for (int i = 0; i < numberOfRecords; i++)
 
 foreach (var item in recordList)
 {
-    Console.WriteLine(item);
+    Console.WriteLine(JsonSerializer.Serialize(item));
 }
